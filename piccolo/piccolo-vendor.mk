@@ -38,20 +38,20 @@ PRODUCT_COPY_FILES += \
     vendor/bq/piccolo/proprietary/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb:system/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb \
     vendor/bq/piccolo/proprietary/etc/acdbdata/QRD/QRD_Headset_cal.acdb:system/etc/acdbdata/QRD/QRD_Headset_cal.acdb \
     vendor/bq/piccolo/proprietary/etc/acdbdata/QRD/QRD_Speaker_cal.acdb:system/etc/acdbdata/QRD/QRD_Speaker_cal.acdb \
-    vendor/bq/piccolo/proprietary/etc/firmware/A4_15_2.2_AA.raw:system/etc/firmware/A4_15_2.2_AA.raw \
-    vendor/bq/piccolo/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
-    vendor/bq/piccolo/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
-    vendor/bq/piccolo/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/bq/piccolo/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/bq/piccolo/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/bq/piccolo/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/bq/piccolo/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00 \
-    vendor/bq/piccolo/proprietary/etc/firmware/venus.b01:system/etc/firmware/venus.b01 \
-    vendor/bq/piccolo/proprietary/etc/firmware/venus.b02:system/etc/firmware/venus.b02 \
-    vendor/bq/piccolo/proprietary/etc/firmware/venus.b03:system/etc/firmware/venus.b03 \
-    vendor/bq/piccolo/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
-    vendor/bq/piccolo/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
-    vendor/bq/piccolo/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/bq/piccolo/proprietary/vendor/firmware/A4_15_2.2_AA.raw:system/vendor/firmware/A4_15_2.2_AA.raw \
+    vendor/bq/piccolo/proprietary/vendor/firmware/a420_pfp.fw:system/vendor/firmware/a420_pfp.fw \
+    vendor/bq/piccolo/proprietary/vendor/firmware/a420_pm4.fw:system/vendor/firmware/a420_pm4.fw \
+    vendor/bq/piccolo/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/bq/piccolo/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/bq/piccolo/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/bq/piccolo/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/bq/piccolo/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
+    vendor/bq/piccolo/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
+    vendor/bq/piccolo/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
+    vendor/bq/piccolo/proprietary/vendor/firmware/venus.b03:system/vendor/firmware/venus.b03 \
+    vendor/bq/piccolo/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
+    vendor/bq/piccolo/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
+    vendor/bq/piccolo/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
     vendor/bq/piccolo/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/bq/piccolo/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/bq/piccolo/proprietary/lib/libarcsoft_beautyshot.so:system/lib/libarcsoft_beautyshot.so \
