@@ -29,7 +29,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/piccolo/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/bq/piccolo/proprietary/vendor/bin/sensord:system/vendor/bin/sensord \
     vendor/bq/piccolo/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
-    vendor/bq/piccolo/proprietary/vendor/bin/wcnss_service:system/vendor/bin/wcnss_service \
     vendor/bq/piccolo/proprietary/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb:system/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb \
     vendor/bq/piccolo/proprietary/etc/acdbdata/QRD/QRD_General_cal.acdb:system/etc/acdbdata/QRD/QRD_General_cal.acdb \
     vendor/bq/piccolo/proprietary/etc/acdbdata/QRD/QRD_Global_cal.acdb:system/etc/acdbdata/QRD/QRD_Global_cal.acdb \
