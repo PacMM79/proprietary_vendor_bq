@@ -29,6 +29,7 @@ PRODUCT_COPY_FILES += \
     vendor/bq/piccolo/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
     vendor/bq/piccolo/proprietary/vendor/bin/sensord:system/vendor/bin/sensord \
     vendor/bq/piccolo/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
+    vendor/bq/piccolo/proprietary/vendor/bin/wcnss_service:system/vendor/bin/wcnss_service \
     vendor/bq/piccolo/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
     vendor/bq/piccolo/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/bq/piccolo/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
